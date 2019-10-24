@@ -16,4 +16,5 @@
 | |  Route.php
 | |-Controller
 | |  MainController.php
+| |-View
 ~~~
